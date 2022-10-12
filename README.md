@@ -1,6 +1,7 @@
 # 📚 개발 면접 답변지 📚
 
 ## Information
+저희 손으로 만드는 개발 면접 답변지입니다.
 
 ## Category
 * [JavaScript](##javascript)
