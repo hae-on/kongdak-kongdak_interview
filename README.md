@@ -21,3 +21,4 @@
 ## Front
 - [웹팩](https://github.com/hae-on/kongdak-kongdak_interview/blob/main/Front/%EC%9B%B9%ED%8C%A9.md)
 - [브라우저 렌더링](https://github.com/hae-on/kongdak-kongdak_interview/blob/main/Front/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A0%8C%EB%8D%94%EB%A7%81.md)
+- [CORS](https://github.com/hae-on/kongdak-kongdak_interview/blob/main/Front/CORS.md)
