@@ -1,7 +1,8 @@
 # 📚 개발 면접 답변지 📚
 
 ## Information
-저희 손으로 만드는 개발 면접 답변지입니다.
+우리손으로 만드는 개발 면접 답변지입니다. <br/>
+작성하시기 전에 [여기](https://github.com/hae-on/kongdak-kongdak_interview/blob/main/CONTRIBUTING.md)를 꼭 참고해주세요!
 
 ## Category
 * [JavaScript](##javascript)
