@@ -19,6 +19,7 @@
 - [이벤트](https://github.com/hae-on/kongdak-kongdak_interview/blob/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)
 - [promise](https://github.com/hae-on/kongdak-kongdak_interview/blob/main/JavaScript/promise.md)
 - [프레임워크](https://github.com/hae-on/kongdak-kongdak_interview/blob/main/JavaScript/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)
+- [await & async](https://github.com/hae-on/kongdak-kongdak_interview/blob/main/JavaScript/await%20async.md)
 
 ## Front
 - [웹팩](https://github.com/hae-on/kongdak-kongdak_interview/blob/main/Front/%EC%9B%B9%ED%8C%A9.md)
